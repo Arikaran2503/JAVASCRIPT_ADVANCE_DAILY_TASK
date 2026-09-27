@@ -146,6 +146,6 @@ Grade: A Grade
 
 ## 👨‍💻 Author
 
-**Praveen Kumar**
+*Arikaran*
 
 JavaScript Daily Tasks – Day 08
