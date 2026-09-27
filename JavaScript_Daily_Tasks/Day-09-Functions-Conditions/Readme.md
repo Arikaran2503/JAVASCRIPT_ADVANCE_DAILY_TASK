@@ -189,9 +189,9 @@ Through this task, I practiced:
 
 ## 👨‍💻 Author
 
-**Praveen Kumar M**
+**Arikaran**
 
-GitHub: **PraveenKumar7545**
+GitHub: **Arikaran**
 
 <br>
 
