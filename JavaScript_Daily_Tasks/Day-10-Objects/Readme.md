@@ -217,7 +217,7 @@ Through this task, I practiced:
 
 ## 👨‍💻 Author
 
-**Praveen Kumar M**
+**Arikaran M**
 
 GitHub: **PraveenKumar7545**
 
