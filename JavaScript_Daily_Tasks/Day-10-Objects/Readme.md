@@ -219,8 +219,6 @@ Through this task, I practiced:
 
 **Arikaran M**
 
-GitHub: **PraveenKumar7545**
-
 <br>
 
 ⭐ This project is part of my **JavaScript Daily Tasks** practice series.
