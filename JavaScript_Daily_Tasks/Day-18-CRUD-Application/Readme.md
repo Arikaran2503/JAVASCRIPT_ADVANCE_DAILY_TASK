@@ -5,7 +5,7 @@
 This day focuses on building a basic **CRUD Application using JavaScript**.
 
 CRUD stands for:
-
+ 
 * **C** → Create
 * **R** → Read
 * **U** → Update
