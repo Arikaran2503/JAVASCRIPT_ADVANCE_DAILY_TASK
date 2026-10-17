@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mobile Recharge Plan</title>
+</head>
+<body>
+    <h2>Mobile Recharge Plan Selector</h2>
+
+    <label>Enter Your Budget (₹):</label>
+    <input type="number" id="budget"><br><br>
+
+    <label>Select Plan Type:</label>
+    <select id="planType">
+        <option value="">Choose Plan</option>
+        <option value="data">Data Plan</option>
+        <option value="calling">Calling Plan</option>
+        <option value="unlimited">Unlimited Plan</option>
+    </select><br><br>
+
+    <label>Validity:</label>
+    <select id="validity">
+        <option value="">Choose Validity</option>
+        <option value="28">28 Days</option>
+        <option value="56">56 Days</option>
+        <option value="84">84 Days</option>
+    </select><br><br>
+
+    <button onclick="selectPlan()">Find Plan</button>
+
+    <p id="result"></p>
+
+    <script src="script.js"></script>
+</body>
+</html>

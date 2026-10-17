@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hotel Room Booking</title>
+</head>
+<body>
+    <h2>Hotel Room Booking Bill</h2>
+
+    <label>Customer Name:</label>
+    <input type="text" id="customer"><br><br>
+
+    <label>Room Type:</label>
+    <select id="room">
+        <option value="">Choose Room</option>
+        <option value="standard">Standard - ₹1500/day</option>
+        <option value="deluxe">Deluxe - ₹2500/day</option>
+        <option value="suite">Suite - ₹4000/day</option>
+    </select><br><br>
+
+    <label>Number of Days:</label>
+    <input type="number" id="days"><br><br>
+
+    <label>Extra Bed:</label>
+    <select id="extraBed">
+        <option value="no">No</option>
+        <option value="yes">Yes - ₹500/day</option>
+    </select><br><br>
+
+    <label>Food Package:</label>
+    <select id="food">
+        <option value="no">No - ₹0/day</option>
+        <option value="yes">Yes - ₹400/day</option>
+    </select><br><br>
+
+    <button onclick="calculateBill()">Calculate Bill</button>
+
+    <p id="result"></p>
+
+    <script src="script.js"></script>
+</body>
+</html>
