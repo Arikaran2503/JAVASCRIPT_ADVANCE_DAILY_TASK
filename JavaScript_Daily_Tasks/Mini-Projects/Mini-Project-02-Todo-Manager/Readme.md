@@ -84,12 +84,5 @@ This mini project helped me practice:
 | Backend      | Not Used               |
 | Database     | Not Used               |
 
-## 👨‍💻 Author
-
-**Praveen Kumar M**
-
-GitHub: [PraveenKumar7545](https://github.com/PraveenKumar7545)
-
----
 
 ⭐ If you find this project useful, consider giving the repository a star!
