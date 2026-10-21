@@ -1,4 +1,4 @@
-<img width="474" height="388" alt="Output2" src="https://github.com/user-attachments/assets/3c93b153-2d70-4646-9252-d6b3faf5fe57" /># Day 24 – JavaScript Advanced Daily Tasks
+# Day 24 – JavaScript Advanced Daily Tasks
 
 ## Project Overview
 
