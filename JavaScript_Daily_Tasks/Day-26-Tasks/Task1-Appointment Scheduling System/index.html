@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Appointment Scheduling System</title>
+</head>
+<body>
+
+    <h2>Appointment Scheduling System</h2>
+
+    <label>Enter Your Name:</label>
+    <input type="text" id="name">
+
+    <br><br>
+
+    <label>Select Appointment Date:</label>
+    <input type="date" id="date">
+
+    <br><br>
+
+    <label>Select Appointment Time:</label>
+    <input type="time" id="time">
+
+    <br><br>
+
+    <button onclick="bookAppointment()">Book Appointment</button>
+
+    <h3>Booked Appointments</h3>
+    <ul id="appointmentList"></ul>
+
+    <h3 id="result"></h3>
+
+    <script src="script.js"></script>
+</body>
+</html>

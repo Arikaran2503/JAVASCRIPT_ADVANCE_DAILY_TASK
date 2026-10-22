@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Job Application Tracker</title>
+</head>
+<body>
+
+    <h2>Job Application Tracker</h2>
+
+    <label>Company Name:</label>
+    <input type="text" id="company">
+
+    <br><br>
+
+    <label>Job Role:</label>
+    <input type="text" id="role">
+
+    <br><br>
+
+    <label>Application Status:</label>
+    <select id="status">
+        <option value="Applied">Applied</option>
+        <option value="Assessment">Assessment</option>
+        <option value="Interview">Interview</option>
+        <option value="Selected">Selected</option>
+        <option value="Rejected">Rejected</option>
+    </select>
+
+    <br><br>
+
+    <button onclick="addApplication()">Add Application</button>
+
+    <br><br>
+
+    <label>Search Company:</label>
+    <input type="text" id="search" onkeyup="searchApplications()">
+
+    <h3>My Applications</h3>
+    <ul id="applicationList"></ul>
+
+    <h3 id="result"></h3>
+
+    <script src="script.js"></script>
+</body>
+</html>
