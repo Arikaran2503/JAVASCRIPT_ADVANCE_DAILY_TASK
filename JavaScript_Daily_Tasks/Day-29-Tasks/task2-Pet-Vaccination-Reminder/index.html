@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pet Vaccination Reminder</title>
+</head>
+<body>
+    <h1>Pet Vaccination Reminder</h1>
+
+    <h3>Add Vaccination Record</h3>
+    <label for="petName">Pet Name:</label>
+    <input type="text" id="petName" placeholder="Enter pet name">
+    <br><br>
+    <label for="vaccineName">Vaccine Name:</label>
+    <input type="text" id="vaccineName" placeholder="Enter vaccine name">
+    <br><br>
+    <label for="vaccineDate">Next Vaccination Date:</label>
+    <input type="date" id="vaccineDate">
+    <br><br>
+    <button onclick="addVaccination()">Add Reminder</button>
+
+    <h3>Vaccination Records</h3>
+    <ul id="vaccinationList"></ul>
+
+    <script src="script.js"></script>
+</body>
+</html>
