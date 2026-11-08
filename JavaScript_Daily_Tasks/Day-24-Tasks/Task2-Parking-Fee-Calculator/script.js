@@ -3,7 +3,7 @@ function calculateDelivery() {
     let charge = 0;
 
     if (amount < 0) {
-        document.getElementById("result").innerHTML =
+        document.getElementById("result").innerHTML = 
             "Please enter a valid order amount.";
     }
     else if (amount === 0) {
