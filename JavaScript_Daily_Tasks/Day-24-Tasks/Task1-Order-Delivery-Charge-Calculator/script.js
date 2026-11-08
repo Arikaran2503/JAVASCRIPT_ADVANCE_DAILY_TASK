@@ -7,7 +7,7 @@ function calculateFee() {
             "Please enter valid parking hours.";
     }
     else if (hours <= 2) {
-        fee = 30;
+        fee = 30;    
     }
     else if (hours <= 5) {
         fee = 60;
