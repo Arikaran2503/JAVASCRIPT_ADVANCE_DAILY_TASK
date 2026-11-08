@@ -3,7 +3,7 @@
 ## Project Overview
 
 This project contains two JavaScript applications that demonstrate how programming concepts can be used to calculate delivery charges and parking fees based on user input and specific conditions.
-
+  
 ## Technologies Used
 
 - HTML5
