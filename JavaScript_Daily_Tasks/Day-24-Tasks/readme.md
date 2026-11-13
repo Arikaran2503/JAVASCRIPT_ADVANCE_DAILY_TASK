@@ -1,5 +1,5 @@
 # Day 24 – JavaScript Advanced Daily Tasks
-
+   
 ## Project Overview
 
 This project contains two JavaScript applications that demonstrate how programming concepts can be used to calculate delivery charges and parking fees based on user input and specific conditions.
